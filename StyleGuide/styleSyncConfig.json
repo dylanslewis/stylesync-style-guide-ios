@@ -1,0 +1,11 @@
+{
+  "sketchDocument" : "..\/StyleSync-StyleGuide-iOS\/Design\/Sample.sketch",
+  "colorStyle" : {
+    "template" : "Sources\/StyleSyncCore\/Templates\/ColorStyles\/iOSSwift",
+    "exportDirectory" : "."
+  },
+  "textStyle" : {
+    "template" : "Sources\/StyleSyncCore\/Templates\/TextStyles\/iOSSwift",
+    "exportDirectory" : "."
+  }
+}
