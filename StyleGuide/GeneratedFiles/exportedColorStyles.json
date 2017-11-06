@@ -1,5 +1,5 @@
 {
-  "version" : "1.0",
+  "version" : "1.1",
   "colorStyles" : [
     {
       "isDeprecated" : false,
@@ -22,10 +22,10 @@
     {
       "isDeprecated" : false,
       "alpha" : 1,
-      "green" : 73.334855767237713,
+      "green" : 105.6753082795543,
       "identifier" : "6A2F36CB-D74D-4A44-81A7-3CFE40C89041",
-      "blue" : 11.643561931571574,
-      "red" : 222.4609375,
+      "blue" : 56.793741498674699,
+      "red" : 223.83649553571431,
       "name" : "Sample Fire"
     },
     {
