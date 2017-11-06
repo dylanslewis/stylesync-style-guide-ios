@@ -1,0 +1,59 @@
+{
+  "version" : "1.0",
+  "colorStyles" : [
+    {
+      "isDeprecated" : false,
+      "alpha" : 1,
+      "green" : 0,
+      "identifier" : "73A9F173-1DB6-4A64-88A9-F6BDF167AFFF",
+      "blue" : 0,
+      "red" : 0,
+      "name" : "Sample Black"
+    },
+    {
+      "isDeprecated" : false,
+      "alpha" : 1,
+      "green" : 153.44587053571428,
+      "identifier" : "6E1ABB08-F33B-4976-9DF7-D8650EED3836",
+      "blue" : 10.38956415085566,
+      "red" : 40.711281265037648,
+      "name" : "Sample Green"
+    },
+    {
+      "isDeprecated" : false,
+      "alpha" : 1,
+      "green" : 73.334855767237713,
+      "identifier" : "6A2F36CB-D74D-4A44-81A7-3CFE40C89041",
+      "blue" : 11.643561931571574,
+      "red" : 222.4609375,
+      "name" : "Sample Fire"
+    },
+    {
+      "isDeprecated" : false,
+      "alpha" : 1,
+      "green" : 195.14586622216422,
+      "identifier" : "6C0A40FA-B93E-4FA9-97E3-EA8FAEA439CE",
+      "blue" : 6.683447560043196,
+      "red" : 210.15545280612244,
+      "name" : "Sample Yellow"
+    },
+    {
+      "isDeprecated" : false,
+      "alpha" : 1,
+      "green" : 143.96073192358017,
+      "identifier" : "46806381-C52D-4D05-AC0B-0203968A22F5",
+      "blue" : 225.99086701869965,
+      "red" : 73.607203066349044,
+      "name" : "Sample Blue"
+    },
+    {
+      "isDeprecated" : false,
+      "alpha" : 1,
+      "green" : 35.72323682946633,
+      "identifier" : "6BF51F35-7AB9-4A62-AA39-B6FC1A9A63B6",
+      "blue" : 55.644855700250851,
+      "red" : 198.15489477040816,
+      "name" : "Sample Red"
+    }
+  ]
+}

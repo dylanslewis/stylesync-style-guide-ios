@@ -1,0 +1,23 @@
+{
+  "version" : "1.0",
+  "textStyles" : [
+    {
+      "isDeprecated" : false,
+      "lineHeight" : 30,
+      "kerning" : 0.40000000000000002,
+      "fontName" : "SFUIText-Light",
+      "colorStyle" : {
+        "isDeprecated" : false,
+        "alpha" : 1,
+        "green" : 153.44587053571428,
+        "identifier" : "6E1ABB08-F33B-4976-9DF7-D8650EED3836",
+        "blue" : 10.38956415085566,
+        "red" : 40.711281265037648,
+        "name" : "Sample Green"
+      },
+      "identifier" : "2B687A0D-BD05-4265-8BC3-730D307E1BD8",
+      "pointSize" : 8,
+      "name" : "Sample Caption"
+    }
+  ]
+}
