@@ -32,7 +32,7 @@ extension TextStylesViewController: UITableViewDataSource {
 		guard let cell = tableView.dequeueReusableCell(withIdentifier: "TextStyleCell") else {
 			fatalError()
 		}
-		let (textStyle, codeName, name) = TextStyle.allGeneratedStylesAndCodeNameAndName[indexPath.row]
+		let (textStyle, _, name) = TextStyle.allGeneratedStylesAndCodeNameAndName[indexPath.row]
 		cell.textLabel?.attributedText = NSAttributedString(string: name, textStyle: textStyle)
 		return cell
 	}
