@@ -16,7 +16,7 @@ $ cp -f .build/release/stylesync /usr/local/bin/stylesync
 
 Since this project already has a `stylesyncConfig.json` file, after installing you can just run `stylesync` to update to the latest styles in [`Sample.sketch`](Design/Sample.sketch).
 
-Due to security reasons, the `gitHubPersonalAccessToken` is not included in `stylesyncConfig.json`, so **stylesync** will *not* commit changes or generate a pull request if you run the script. An example Pull Request is available [here](ADD LINK).
+Due to security reasons, the `gitHubPersonalAccessToken` is not included in `stylesyncConfig.json`, so **stylesync** will *not* commit changes or generate a pull request if you run the script. An example Pull Request is available [here](https://github.com/dylanslewis/stylesync-style-guide-ios/pull/2).
 
 `// TODO: Add speed run video`
 
