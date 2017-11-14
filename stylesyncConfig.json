@@ -1,0 +1,11 @@
+{
+  "sketchDocument" : "Design\/Sample.sketch",
+  "colorStyle" : {
+    "template" : "Templates\/ColorStyles.swift-template.txt",
+    "exportDirectory" : "StyleGuide\/GeneratedFiles\/"
+  },
+  "textStyle" : {
+    "template" : "Templates\/TextStyles.swift-template.txt",
+    "exportDirectory" : "StyleGuide\/GeneratedFiles\/"
+  }
+}
