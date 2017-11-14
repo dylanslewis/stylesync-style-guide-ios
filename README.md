@@ -1,4 +1,4 @@
-# **stylesync** Style Guide (iOS)
+# Style Guide
 
 An iOS app to showcase generated style files from [`stylesync`](https://github.com/dylanslewis/stylesync).
 
