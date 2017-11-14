@@ -1,5 +1,5 @@
 {
-  "version" : "1.0",
+  "version" : "1.1",
   "textStyles" : [
     {
       "isDeprecated" : false,
@@ -9,11 +9,11 @@
       "colorStyle" : {
         "isDeprecated" : false,
         "alpha" : 1,
-        "green" : 29.999999999999996,
-        "identifier" : "7E0CA742-F7A8-4873-9F76-1A8EF6DF199F",
-        "blue" : 23.999999999999993,
-        "red" : 217,
-        "name" : "Sample Red"
+        "green" : 108,
+        "identifier" : "2029EB27-4BBF-4BF8-9BE8-B294B34EB6A1",
+        "blue" : 179,
+        "red" : 68.000000000000014,
+        "name" : "Sample Blue"
       },
       "identifier" : "2DFE61F0-7063-4A93-9504-E19D9B697D9E",
       "pointSize" : 32,
@@ -40,8 +40,8 @@
     {
       "isDeprecated" : false,
       "lineHeight" : 20,
-      "kerning" : 0,
-      "fontName" : "SFProText-Regular",
+      "kerning" : 0.20000000000000001,
+      "fontName" : "SFUIText-Regular",
       "colorStyle" : {
         "isDeprecated" : false,
         "alpha" : 1,
@@ -70,7 +70,7 @@
         "name" : "Sample Black"
       },
       "identifier" : "0EED35B8-1DD8-46AD-AA80-20A390092A7E",
-      "pointSize" : 14,
+      "pointSize" : 12,
       "name" : "Sample Quote"
     },
     {
@@ -81,10 +81,10 @@
       "colorStyle" : {
         "isDeprecated" : false,
         "alpha" : 1,
-        "green" : 165,
+        "green" : 121.99999999999997,
         "identifier" : "56BD6516-1046-40EC-BC23-203ED963711A",
-        "blue" : 166,
-        "red" : 149,
+        "blue" : 137,
+        "red" : 108,
         "name" : "Sample Grey"
       },
       "identifier" : "009D50EB-A022-41E2-ADB0-6C29C65D174C",
