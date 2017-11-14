@@ -38,16 +38,6 @@ extension TextStyle {
 	)
 }
 
-extension NSAttributedString {
-	convenience init(withMonospacedString string: String) {
-		let attributes: [NSAttributedStringKey: Any] = [
-			.font: UIFont.monospacedDigitSystemFont(ofSize: TextStyle.sampleBody.font.pointSize, weight: .light),
-			.foregroundColor: TextStyle.sampleBody.color,
-		]
-		self.init(string: string, attributes: attributes)
-	}
-}
-
 extension ColorTableViewCell {
 	struct ViewData {
 		let name: String
