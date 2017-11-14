@@ -1,22 +1,94 @@
 {
-  "version" : "2.0",
+  "version" : "1.0",
   "textStyles" : [
     {
       "isDeprecated" : false,
-      "lineHeight" : 30,
-      "kerning" : 0.40000000000000002,
-      "fontName" : "SFUIText-Light",
+      "lineHeight" : 0,
+      "kerning" : 0.80000000000000004,
+      "fontName" : "DINAlternate-Bold",
       "colorStyle" : {
         "isDeprecated" : false,
         "alpha" : 1,
-        "green" : 153.44587053571428,
-        "identifier" : "6E1ABB08-F33B-4976-9DF7-D8650EED3836",
-        "blue" : 10.38956415085566,
-        "red" : 40.711281265037648,
-        "name" : "Sample Green"
+        "green" : 29.999999999999996,
+        "identifier" : "7E0CA742-F7A8-4873-9F76-1A8EF6DF199F",
+        "blue" : 23.999999999999993,
+        "red" : 217,
+        "name" : "Sample Red"
       },
-      "identifier" : "2B687A0D-BD05-4265-8BC3-730D307E1BD8",
-      "pointSize" : 8,
+      "identifier" : "2DFE61F0-7063-4A93-9504-E19D9B697D9E",
+      "pointSize" : 32,
+      "name" : "Sample Heading"
+    },
+    {
+      "isDeprecated" : false,
+      "lineHeight" : 0,
+      "kerning" : 0.80000000000000004,
+      "fontName" : "DINAlternate-Bold",
+      "colorStyle" : {
+        "isDeprecated" : false,
+        "alpha" : 1,
+        "green" : 0,
+        "identifier" : "10CBA0E6-DC4B-4671-BA2B-926B2CBFD815",
+        "blue" : 0,
+        "red" : 0,
+        "name" : "Sample Black"
+      },
+      "identifier" : "62B09A47-75DD-4B24-AA6A-7F671A69BADC",
+      "pointSize" : 20,
+      "name" : "Sample Title"
+    },
+    {
+      "isDeprecated" : false,
+      "lineHeight" : 20,
+      "kerning" : 0,
+      "fontName" : "SFProText-Regular",
+      "colorStyle" : {
+        "isDeprecated" : false,
+        "alpha" : 1,
+        "green" : 0,
+        "identifier" : "10CBA0E6-DC4B-4671-BA2B-926B2CBFD815",
+        "blue" : 0,
+        "red" : 0,
+        "name" : "Sample Black"
+      },
+      "identifier" : "27BEC8ED-29E3-4BC2-AF74-8A544704348B",
+      "pointSize" : 14,
+      "name" : "Sample Body"
+    },
+    {
+      "isDeprecated" : false,
+      "lineHeight" : 20,
+      "kerning" : 0,
+      "fontName" : "SFProText-Italic",
+      "colorStyle" : {
+        "isDeprecated" : false,
+        "alpha" : 1,
+        "green" : 0,
+        "identifier" : "10CBA0E6-DC4B-4671-BA2B-926B2CBFD815",
+        "blue" : 0,
+        "red" : 0,
+        "name" : "Sample Black"
+      },
+      "identifier" : "0EED35B8-1DD8-46AD-AA80-20A390092A7E",
+      "pointSize" : 14,
+      "name" : "Sample Quote"
+    },
+    {
+      "isDeprecated" : false,
+      "lineHeight" : 12,
+      "kerning" : 0,
+      "fontName" : "SFProText-Medium",
+      "colorStyle" : {
+        "isDeprecated" : false,
+        "alpha" : 1,
+        "green" : 165,
+        "identifier" : "56BD6516-1046-40EC-BC23-203ED963711A",
+        "blue" : 166,
+        "red" : 149,
+        "name" : "Sample Grey"
+      },
+      "identifier" : "009D50EB-A022-41E2-ADB0-6C29C65D174C",
+      "pointSize" : 10,
       "name" : "Sample Caption"
     }
   ]

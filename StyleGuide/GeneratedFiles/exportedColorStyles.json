@@ -1,59 +1,77 @@
 {
-  "version" : "2.0",
+  "version" : "1.0",
   "colorStyles" : [
     {
       "isDeprecated" : false,
       "alpha" : 1,
-      "green" : 0,
-      "identifier" : "73A9F173-1DB6-4A64-88A9-F6BDF167AFFF",
-      "blue" : 0,
-      "red" : 0,
-      "name" : "Sample Black"
+      "green" : 29.999999999999996,
+      "identifier" : "7E0CA742-F7A8-4873-9F76-1A8EF6DF199F",
+      "blue" : 23.999999999999993,
+      "red" : 217,
+      "name" : "Sample Red"
     },
     {
       "isDeprecated" : false,
       "alpha" : 1,
-      "green" : 153.44587053571428,
-      "identifier" : "6E1ABB08-F33B-4976-9DF7-D8650EED3836",
-      "blue" : 10.38956415085566,
-      "red" : 40.711281265037648,
-      "name" : "Sample Green"
+      "green" : 10,
+      "identifier" : "EA466554-DE13-435A-A0AC-34A146457D73",
+      "blue" : 91.000000000000071,
+      "red" : 219,
+      "name" : "Sample Pink"
     },
     {
       "isDeprecated" : false,
       "alpha" : 1,
-      "green" : 108.60540232788587,
-      "identifier" : "6A2F36CB-D74D-4A44-81A7-3CFE40C89041",
-      "blue" : 78.86800479358115,
-      "red" : 180.48947704081633,
-      "name" : "Sample Fire"
+      "green" : 51,
+      "identifier" : "DE5E4551-DE48-477B-A879-E1994EF6BBBC",
+      "blue" : 153,
+      "red" : 102,
+      "name" : "Sample Purple"
     },
     {
       "isDeprecated" : false,
       "alpha" : 1,
-      "green" : 195.14586622216422,
-      "identifier" : "6C0A40FA-B93E-4FA9-97E3-EA8FAEA439CE",
-      "blue" : 6.683447560043196,
-      "red" : 210.15545280612244,
-      "name" : "Sample Yellow"
-    },
-    {
-      "isDeprecated" : false,
-      "alpha" : 1,
-      "green" : 143.96073192358017,
-      "identifier" : "46806381-C52D-4D05-AC0B-0203968A22F5",
-      "blue" : 225.99086701869965,
-      "red" : 73.607203066349044,
+      "green" : 108,
+      "identifier" : "2029EB27-4BBF-4BF8-9BE8-B294B34EB6A1",
+      "blue" : 179,
+      "red" : 68.000000000000014,
       "name" : "Sample Blue"
     },
     {
       "isDeprecated" : false,
       "alpha" : 1,
-      "green" : 35.72323682946633,
-      "identifier" : "6BF51F35-7AB9-4A62-AA39-B6FC1A9A63B6",
-      "blue" : 55.644855700250851,
-      "red" : 198.15489477040816,
-      "name" : "Sample Red"
+      "green" : 166,
+      "identifier" : "DA3DD574-7F42-41AB-B666-D99E7F92B348",
+      "blue" : 91.000000000000014,
+      "red" : 38.000000000000014,
+      "name" : "Sample Green"
+    },
+    {
+      "isDeprecated" : false,
+      "alpha" : 1,
+      "green" : 147.99999999999997,
+      "identifier" : "E593D6C9-ED87-4ED5-8DEF-9D2C53AD7EA3",
+      "blue" : 5.9999999999999947,
+      "red" : 248,
+      "name" : "Sample Orange"
+    },
+    {
+      "isDeprecated" : false,
+      "alpha" : 1,
+      "green" : 165,
+      "identifier" : "56BD6516-1046-40EC-BC23-203ED963711A",
+      "blue" : 166,
+      "red" : 149,
+      "name" : "Sample Grey"
+    },
+    {
+      "isDeprecated" : false,
+      "alpha" : 1,
+      "green" : 0,
+      "identifier" : "10CBA0E6-DC4B-4671-BA2B-926B2CBFD815",
+      "blue" : 0,
+      "red" : 0,
+      "name" : "Sample Black"
     }
   ]
 }
