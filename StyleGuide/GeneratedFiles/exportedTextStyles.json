@@ -1,5 +1,5 @@
 {
-  "version" : "1.0",
+  "version" : "1.1",
   "textStyles" : [
     {
       "isDeprecated" : false,
@@ -9,11 +9,11 @@
       "colorStyle" : {
         "isDeprecated" : false,
         "alpha" : 1,
-        "green" : 30,
-        "identifier" : "7E0CA742-F7A8-4873-9F76-1A8EF6DF199F",
-        "blue" : 23.99999999999999,
-        "red" : 217,
-        "name" : "Sample Red"
+        "green" : 108,
+        "identifier" : "2029EB27-4BBF-4BF8-9BE8-B294B34EB6A1",
+        "blue" : 179,
+        "red" : 68.00000000000001,
+        "name" : "Sample Blue"
       },
       "identifier" : "2DFE61F0-7063-4A93-9504-E19D9B697D9E",
       "pointSize" : 32,
@@ -22,7 +22,7 @@
     {
       "isDeprecated" : false,
       "lineHeight" : 24,
-      "kerning" : 0.8,
+      "kerning" : 0.72,
       "fontName" : "DINAlternate-Bold",
       "colorStyle" : {
         "isDeprecated" : false,
@@ -34,7 +34,7 @@
         "name" : "Sample Black"
       },
       "identifier" : "62B09A47-75DD-4B24-AA6A-7F671A69BADC",
-      "pointSize" : 20,
+      "pointSize" : 18,
       "name" : "Sample Title"
     },
     {
@@ -90,6 +90,24 @@
       "identifier" : "009D50EB-A022-41E2-ADB0-6C29C65D174C",
       "pointSize" : 10,
       "name" : "Sample Caption"
+    },
+    {
+      "isDeprecated" : false,
+      "lineHeight" : 21,
+      "kerning" : 0.72,
+      "fontName" : "DINAlternate-Bold",
+      "colorStyle" : {
+        "isDeprecated" : false,
+        "alpha" : 1,
+        "green" : 0,
+        "identifier" : "10CBA0E6-DC4B-4671-BA2B-926B2CBFD815",
+        "blue" : 0,
+        "red" : 0,
+        "name" : "Sample Black"
+      },
+      "identifier" : "78A8E0D7-649C-4F53-8BAD-5E47FC380F1A",
+      "pointSize" : 22,
+      "name" : "New Style"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "version" : "1.0",
+  "version" : "1.1",
   "colorStyles" : [
     {
       "isDeprecated" : false,
       "alpha" : 1,
-      "green" : 30,
+      "green" : 44.60324914289608,
       "identifier" : "7E0CA742-F7A8-4873-9F76-1A8EF6DF199F",
-      "blue" : 23.99999999999999,
-      "red" : 217,
+      "blue" : 38.88114877298575,
+      "red" : 222.942044005102,
       "name" : "Sample Red"
     },
     {
@@ -22,10 +22,10 @@
     {
       "isDeprecated" : false,
       "alpha" : 1,
-      "green" : 51,
+      "green" : 41.64956936809701,
       "identifier" : "DE5E4551-DE48-477B-A879-E1994EF6BBBC",
-      "blue" : 153,
-      "red" : 102,
+      "blue" : 170.0880899234694,
+      "red" : 105.8688296457832,
       "name" : "Sample Purple"
     },
     {
