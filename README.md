@@ -2,7 +2,9 @@
 
 An iOS app to showcase generated style files from [`stylesync`](https://github.com/dylanslewis/stylesync).
 
-`TODO: Add screenshots of Sketch and app`
+<p align="center">
+<img src="Design/Hero.png" width="600" max-width="90%" alt="stylesync" />
+</p>
 
 ## How to use
 
@@ -19,5 +21,3 @@ Since this project already has a `stylesyncConfig.json` file, after installing y
 Due to security reasons, the `gitHubPersonalAccessToken` is not included in `stylesyncConfig.json`, so **stylesync** will *not* commit changes or generate a pull request if you run the script. An example Pull Request is available [here](https://github.com/dylanslewis/stylesync-style-guide-ios/pull/2).
 
 `// TODO: Add speed run video`
-
-
