@@ -3,7 +3,7 @@
 An iOS app to showcase generated style files from [`stylesync`](https://github.com/dylanslewis/stylesync).
 
 <p align="center">
-<img src="Design/Hero.png" width="600" max-width="90%" alt="stylesync" />
+<img src="Design/Hero.png" width="1000" max-width="90%" alt="stylesync" />
 </p>
 
 ## How to use
