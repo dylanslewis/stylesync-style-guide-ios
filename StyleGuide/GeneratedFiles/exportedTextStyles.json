@@ -3,15 +3,15 @@
   "textStyles" : [
     {
       "isDeprecated" : false,
-      "lineHeight" : 0,
-      "kerning" : 0.80000000000000004,
+      "lineHeight" : 37,
+      "kerning" : 0.8,
       "fontName" : "DINAlternate-Bold",
       "colorStyle" : {
         "isDeprecated" : false,
         "alpha" : 1,
-        "green" : 29.999999999999996,
+        "green" : 30,
         "identifier" : "7E0CA742-F7A8-4873-9F76-1A8EF6DF199F",
-        "blue" : 23.999999999999993,
+        "blue" : 23.99999999999999,
         "red" : 217,
         "name" : "Sample Red"
       },
@@ -21,8 +21,8 @@
     },
     {
       "isDeprecated" : false,
-      "lineHeight" : 0,
-      "kerning" : 0.80000000000000004,
+      "lineHeight" : 24,
+      "kerning" : 0.8,
       "fontName" : "DINAlternate-Bold",
       "colorStyle" : {
         "isDeprecated" : false,
@@ -41,7 +41,7 @@
       "isDeprecated" : false,
       "lineHeight" : 20,
       "kerning" : 0,
-      "fontName" : "SFProText-Regular",
+      "fontName" : "DINAlternate-Bold",
       "colorStyle" : {
         "isDeprecated" : false,
         "alpha" : 1,
@@ -59,7 +59,7 @@
       "isDeprecated" : false,
       "lineHeight" : 20,
       "kerning" : 0,
-      "fontName" : "SFProText-Italic",
+      "fontName" : "SFUIText-Italic",
       "colorStyle" : {
         "isDeprecated" : false,
         "alpha" : 1,
@@ -77,7 +77,7 @@
       "isDeprecated" : false,
       "lineHeight" : 12,
       "kerning" : 0,
-      "fontName" : "SFProText-Medium",
+      "fontName" : "DINAlternate-Bold",
       "colorStyle" : {
         "isDeprecated" : false,
         "alpha" : 1,

@@ -14,7 +14,7 @@ extension TextStyle {
 		pointSize: 32,
 		color: .sampleRed,
 		kerning: 0.8,
-		lineHeight: 0
+		lineHeight: 37
 	)
 
 	static let sampleTitle = TextStyle(
@@ -22,11 +22,11 @@ extension TextStyle {
 		pointSize: 20,
 		color: .sampleBlack,
 		kerning: 0.8,
-		lineHeight: 0
+		lineHeight: 24
 	)
 
 	static let sampleBody = TextStyle(
-		fontName: "SFProText-Regular",
+		fontName: "DINAlternate-Bold",
 		pointSize: 14,
 		color: .sampleBlack,
 		kerning: 0.0,
@@ -34,7 +34,7 @@ extension TextStyle {
 	)
 
 	static let sampleQuote = TextStyle(
-		fontName: "SFProText-Italic",
+		fontName: ".SFUIText-Italic",
 		pointSize: 14,
 		color: .sampleBlack,
 		kerning: 0.0,
@@ -42,7 +42,7 @@ extension TextStyle {
 	)
 
 	static let sampleCaption = TextStyle(
-		fontName: "SFProText-Medium",
+		fontName: "DINAlternate-Bold",
 		pointSize: 10,
 		color: .sampleGrey,
 		kerning: 0.0,
