@@ -20,4 +20,4 @@ Since this project already has a `stylesyncConfig.json` file, after installing y
 
 Due to security reasons, the `gitHubPersonalAccessToken` is not included in `stylesyncConfig.json`, so **stylesync** will *not* commit changes or generate a pull request if you run the script. An example Pull Request is available [here](https://github.com/dylanslewis/stylesync-style-guide-ios/pull/4).
 
-`// TODO: Add speed run video`
+[![Vimeo](Design/Vimeo.png)](https://vimeo.com/243729044)
