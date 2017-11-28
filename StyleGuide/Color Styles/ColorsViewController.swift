@@ -36,7 +36,7 @@ extension ColorsViewController: UITableViewDataSource {
 		guard let viewData = ColorTableViewCell.ViewData(name: name, codeName: codeName, color: color) else {
 			fatalError()
 		}
-		cell.configure(with: viewData, textStyle: .sampleTitle)
+		cell.configure(with: viewData, textStyle: .heading2)
 		return cell
 	}
 }

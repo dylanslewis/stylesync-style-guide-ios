@@ -1,0 +1,16 @@
+{
+  "colors": [
+    {
+      "id": "lonaTeal",
+      "name": "Lona Teal",
+      "value": "#008080",
+      "comment": "Teal color for backgrounds"
+    },
+    {
+      "id": "lonaBlue",
+      "name": "Lona Blue",
+      "value": "#000080",
+      "comment": "Blue accent color"
+    }
+  ]
+}

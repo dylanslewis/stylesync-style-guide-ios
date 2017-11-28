@@ -1,0 +1,25 @@
+{
+  "defaultStyleName": "h2",
+  "styles": [
+    {
+      "id": "h1",
+      "name": "Heading 1",
+      "fontFamily": "Helvetica Neue",
+      "fontWeight": "300",
+      "fontSize": 48,
+      "lineHeight": 56,
+      "letterSpacing": -0.3,
+      "color": "lonaBlue"
+    },
+    {
+      "id": "h2",
+      "name": "Heading 2",
+      "fontFamily": "Helvetica Neue",
+      "fontWeight": "500",
+      "fontSize": 32,
+      "lineHeight": 40,
+      "letterSpacing": -0.3,
+      "color": "lonaTeal"
+    }
+  ]
+}

@@ -9,51 +9,24 @@ import UIKit
 
 extension TextStyle {
 
-	static let sampleHeading = TextStyle(
-		fontName: "DINAlternate-Bold",
+	static let heading1 = TextStyle(
+		fontName: "HelveticaNeue-CondensedBlack",
+		pointSize: 48,
+		color: .lonaBlue,
+		kerning: -0.3,
+		lineHeight: 56
+	)
+
+	static let heading2 = TextStyle(
+		fontName: "HelveticaNeue-CondensedBlack",
 		pointSize: 32,
-		color: .sampleRed,
-		kerning: 0.8,
-		lineHeight: 37
-	)
-
-	static let sampleTitle = TextStyle(
-		fontName: "DINAlternate-Bold",
-		pointSize: 20,
-		color: .sampleBlack,
-		kerning: 0.8,
-		lineHeight: 24
-	)
-
-	static let sampleBody = TextStyle(
-		fontName: "DINAlternate-Bold",
-		pointSize: 14,
-		color: .sampleBlack,
-		kerning: 0.0,
-		lineHeight: 20
-	)
-
-	static let sampleQuote = TextStyle(
-		fontName: ".SFUIText-Italic",
-		pointSize: 14,
-		color: .sampleBlack,
-		kerning: 0.0,
-		lineHeight: 20
-	)
-
-	static let sampleCaption = TextStyle(
-		fontName: "DINAlternate-Bold",
-		pointSize: 10,
-		color: .sampleGrey,
-		kerning: 0.0,
-		lineHeight: 12
+		color: .lonaTeal,
+		kerning: -0.3,
+		lineHeight: 40
 	)
 
 	public static let allGeneratedStylesAndCodeNameAndName: [(TextStyle, String, String)] = [
-			(.sampleHeading, "sampleHeading", "Sample Heading"),
-			(.sampleTitle, "sampleTitle", "Sample Title"),
-			(.sampleBody, "sampleBody", "Sample Body"),
-			(.sampleQuote, "sampleQuote", "Sample Quote"),
-			(.sampleCaption, "sampleCaption", "Sample Caption"),
+			(.heading1, "heading1", "Heading 1"),
+			(.heading2, "heading2", "Heading 2"),
 	]
 }

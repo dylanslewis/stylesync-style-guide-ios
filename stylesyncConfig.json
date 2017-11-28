@@ -1,5 +1,8 @@
 {
-  "sketchDocument" : "Design\/Sample.sketch",
+  "lona" : {
+    "colors" : "Design/colorStyles.json",
+    "text" : "Design/textStyles.json",
+  },
   "colorStyle" : {
     "template" : "Templates\/ColorStyles.swift-template.txt",
     "exportDirectory" : "StyleGuide\/GeneratedFiles\/"
